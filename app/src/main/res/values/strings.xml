@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MassConvertor</string>
+    <string name="ounceGram">Ounce - Grams</string>
+    <string name="kiloPound">Kilograms - Pounds</string>
+    <string name="kiloStone">Kilogram - Stones</string>
+    <string name="stonePound">Stones - Pounds</string>
+    <string name="convert_lbs_to_stone">Convert Lbs TO Stone</string>
+    <string name="stone">Stone</string>
+    <string name="convert_stone_to_kg">Convert Stone TO kG</string>
+    <string name="stones">Stones</string>
+    <string name="convert_kg_to_stone">Convert Kg to stone</string>
+    <string name="convert_ounce_to_gram">Convert Ounce TO Gram</string>
+    <string name="grams">Grams</string>
+    <string name="convert_gram_to_ounce">Convert Gram to Ounce</string>
+    <string name="ounce">Ounce</string>
+    <string name="convert_lbs_to_kg">Convert Lbs TO kG</string>
+    <string name="kilograms">Kilograms</string>
+    <string name="pounds">Pounds</string>
+    <string name="convert_kg_to_lbs">Convert Kg to Lbs</string>
+    <string name="start">Start</string>
+
+    <string-array name="options">
+        <item>@string/kiloPound</item>
+        <item>@string/kiloStone</item>
+        <item>@string/stonePound</item>
+        <item>@string/ounceGram</item>
+    </string-array>
+</resources>
